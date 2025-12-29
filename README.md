@@ -27,7 +27,7 @@ etc.
 
 This folder focuses on modular finger design to allow reuse, modification, and rapid prototyping.
 
-## If you want, I can also:
+## If you want, you can also contribute:
 
 Add a CAD / electronics / firmware section
 
