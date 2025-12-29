@@ -1,8 +1,8 @@
-#Prosthetic Hand Documentation
+# Prosthetic Hand Documentation
 
 This repository serves as the central documentation hub for the Prosthetic Hand Project. It contains design references, mechanical components, and supporting files required for development, assembly, and iteration of the prosthetic hand system.
 
-##Naming Convention
+## Naming Convention
 
 To maintain clarity and consistency across parts and files, the following prefixes are used:
 
@@ -14,7 +14,7 @@ u_ — Universal components shared between both hands
 
 All files should follow this convention to ensure easy identification and scalability of the project.
 
-##Folder Structure
+## Folder Structure
 Finger_Components/
 
 Contains all fine mechanical and structural elements required for individual finger assemblies, including:
@@ -27,12 +27,10 @@ etc.
 
 This folder focuses on modular finger design to allow reuse, modification, and rapid prototyping.
 
-##If you want, I can also:
+## If you want, I can also:
 
 Add a CAD / electronics / firmware section
 
 Introduce versioning and revision tracking
 
 Align it with open-source hardware best practices
-
-Tell me how far you want to take it.
